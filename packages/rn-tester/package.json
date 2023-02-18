@@ -14,12 +14,14 @@
     "nullthrows": "^1.1.1"
   },
   "peerDependencies": {
-    "react": "17.0.2",
-    "react-native": "*"
+    "react": "18.2.0"
   },
   "devDependencies": {
-    "connect": "^3.6.5",
-    "ws": "^6.1.4"
+    "connect": "^3.7.0",
+    "ws": "^8.12.1"
+  },
+  "overrides": {
+    "react": "18.2.0"
   },
   "codegenConfig": {
     "libraries": [

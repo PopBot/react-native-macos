@@ -14,8 +14,6 @@ const ReactTestRenderer = require('react-test-renderer');
 const TextInput = require('../TextInput');
 const ReactNative = require('../../../Renderer/shims/ReactNative');
 
-import Component from '@reactions/component';
-
 const {
   enter,
   expectRendersMatchingSnapshot,
@@ -34,21 +32,12 @@ describe('TextInput tests', () => {
     onChangeListener = jest.fn();
     onChangeTextListener = jest.fn();
     const renderTree = ReactTestRenderer.create(
-      <Component initialState={{text: initialValue}}>
-        {({setState, state}) => (
-          <TextInput
-            ref={inputRef}
-            value={state.text}
-            onChangeText={text => {
-              onChangeTextListener(text);
-              setState({text});
-            }}
-            onChange={event => {
-              onChangeListener(event);
-            }}
-          />
-        )}
-      </Component>,
+      <TextInput
+        ref={inputRef}
+        value={initialValue}
+        onChange={onChangeListener}
+        onChangeText={onChangeTextListener}
+      />,
     );
     input = renderTree.root.findByType(TextInput);
   });
