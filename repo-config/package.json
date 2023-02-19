@@ -1,6 +1,6 @@
 {
   "name": "@react-native/repo-config",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "description": "Meta package for the React Native repository.",
   "license": "MIT",

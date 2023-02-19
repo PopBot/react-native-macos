@@ -1,5 +1,5 @@
 {
-  "private": true,
+  "private": false,
   "scripts": {
     "danger": "node ./node_modules/.bin/danger"
   },
