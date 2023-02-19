@@ -1,7 +1,7 @@
 {
   "name": "@popbot/react-native-macos",
   "private": false,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "bin": "./cli.js",
   "description": "Updated React-Native-MacOS version to work with latest packages",
   "license": "MIT",

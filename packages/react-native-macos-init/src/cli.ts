@@ -46,7 +46,7 @@ const EXITCODE_UNKNOWN_ERROR = 6;
 const EXITCODE_NO_PACKAGE_JSON = 7;
 
 const RNPKG = 'react-native';
-const MACOSPKG = 'react-native-macos';
+const MACOSPKG = '@popbot/react-native-macos';
 
 function reactNativeMacOSGeneratePath() {
   return require.resolve(`${MACOSPKG}/local-cli/generate-macos.js`, {
@@ -310,11 +310,14 @@ You can either downgrade your version of ${chalk.yellow(RNPKG)} to ${chalk.cyan(
         } ${pkgLatest}…`,
       );
 
-      const pkgmgr = isProjectUsingYarn(process.cwd())
-        ? `yarn add${verbose ? '' : ' -s'}`
-        : `npm install --save${verbose ? '' : ' --silent'}`;
-      const execOptions = verbose ? {stdio: 'inherit' as 'inherit'} : {};
-      execSync(`${pkgmgr} "${MACOSPKG}@${version}"`, execOptions);
+      // const pkgmgr = isProjectUsingYarn(process.cwd())
+      //   ? `yarn add${verbose ? '' : ' -s'}`
+      //   : `npm install --save${verbose ? '' : ' --silent'}`;
+      // const execOptions = verbose ? {stdio: 'inherit' as 'inherit'} : {};
+      // if (MACOSPKG === '@popbot/react-native-macos') {
+      //   version = '0.0.2';
+      // }
+      // execSync(`${pkgmgr} "${MACOSPKG}@${version}"`, execOptions);
 
       console.log(`${pkgLatest} ${chalk.green('successfully installed!')}`);
     } else {
