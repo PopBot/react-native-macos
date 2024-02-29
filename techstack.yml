@@ -1,0 +1,1691 @@
+repo_name: PopBot/react-native-macos
+report_id: 50bcbde4fdf9a109be65319bf4a63ab8
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:49:05+00:00'
+requested_by: PopBot
+provider: github
+branch: main
+detected_tools_count: 127
+tools:
+- name: Assembly Language
+  description: A low-level programming language
+  website_url: https://en.wikipedia.org/wiki/Assembly_language
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4934/default_71f18bbdc61fb88cefb66415bb55dc6f1e60e5ec.png
+  detection_source_url: https://github.com/PopBot/react-native-macos
+  detection_source: Repo Metadata
+- name: Boost
+  description: Provides free peer-reviewed portable C++ source libraries
+  website_url: http://www.boost.org/
+  license: BSL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4751/New_Project__59_.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/ReactCommon/cxxreact/React-cxxreact.podspec
+  detection_source: ReactCommon/cxxreact/React-cxxreact.podspec
+  last_updated_by: HeyImChris
+  last_updated_on: 2022-01-14 21:11:09.000000000 Z
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/PopBot/react-native-macos
+  detection_source: Repo Metadata
+- name: C++
+  description: Has imperative, object-oriented and generic programming features, while
+    also providing the facilities for low level memory manipulation
+  website_url: http://www.cplusplus.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/PopBot/react-native-macos
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/PopBot/react-native-macos
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/PopBot/react-native-macos
+  detection_source: Repo Metadata
+- name: Kotlin
+  description: Statically typed Programming Language targeting JVM and JavaScript
+  website_url: https://kotlinlang.org/
+  open_source: true
+  hosted_saas: true
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/PopBot/react-native-macos
+  detection_source: Repo Metadata
+- name: Objective-C
+  description: The primary programming language you use when writing software for
+    OS X and iOS
+  website_url: https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source_url: https://github.com/PopBot/react-native-macos
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/PopBot/react-native-macos
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  version: 2.7.5
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/Gemfile.lock
+  detection_source: Repo Metadata
+  last_updated_by: Gustavo Sverzut Barbieri
+  last_updated_on: 2021-10-02 04:21:03.000000000 Z
+- name: Swift
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/packages/rn-tester/Podfile
+  detection_source: packages/rn-tester/Podfile
+  last_updated_by: Kevin Gozali
+  last_updated_on: 2018-04-12 22:54:36.000000000 Z
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/PopBot/react-native-macos
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/packages/react-native-macos-init/package.json
+  detection_source: packages/react-native-macos-init/package.json
+  last_updated_by: Tom Underhill
+  last_updated_on: 2020-04-02 00:22:01.000000000 Z
+- name: Android SDK
+  description: An SDK that provides you the API libraries and developer tools necessary
+    to build, test, and debug apps for Android.
+  website_url: http://developer.android.com
+  version: 7.0.4
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/packages/react-native-gradle-plugin/build.gradle.kts
+  detection_source: template/android/app/build.gradle
+  last_updated_by: Nicola Corti
+  last_updated_on: 2021-12-21 19:18:29.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 1000.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/packages/rn-tester/Podfile.lock
+  detection_source: package.json
+  last_updated_by: Jarod Wong
+  last_updated_on: 2023-02-18 23:59:07.000000000 Z
+- name: Yoga
+  description: A cross-platform layout engine, by Facebook
+  website_url: https://facebook.github.io/yoga/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/6164/yoga.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/React-Core.podspec
+  detection_source: React-Core.podspec
+  last_updated_by: Tom Underhill
+  last_updated_on: 2020-04-28 18:49:15.000000000 Z
+- name: Firebase
+  description: The Realtime App Platform
+  website_url: https://firebase.google.com/
+  open_source: false
+  hosted_saas: true
+  category: Application Hosting
+  sub_category: Realtime Backend / API
+  image_url: https://img.stackshare.io/service/116/cZLxNFZS.jpg
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/bots/package.json
+  detection_source: bots/package.json
+  last_updated_by: Tim Yung
+  last_updated_on: 2022-02-16 08:08:02.000000000 Z
+- name: ws
+  description: A Node.js WebSocket library
+  website_url: https://github.com/websockets/ws
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Realtime Backend / API
+  image_url: https://img.stackshare.io/service/11381/no-img-open-source.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Spencer Ahrens
+  last_updated_on: 2015-02-20 04:10:52.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/ReactCommon/hermes/inspector/tools/msggen/package.json
+  detection_source: ReactCommon/hermes/inspector/tools/msggen/.babelrc
+  last_updated_by: Eloy Durán
+  last_updated_on: 2020-09-30 16:38:06.000000000 Z
+- name: CMake
+  description: An open-source system that manages the build process
+  website_url: http://www.cmake.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg
+  detection_source_url: https://github.com/PopBot/react-native-macos
+  detection_source: Repo Metadata
+- name: CircleCI
+  description: Automate your development process quickly, safely, and at scale
+  website_url: https://circleci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/.circleci/config.yml
+  detection_source: ".circleci/config.yml"
+  last_updated_by: Saad Najmi
+  last_updated_on: 2022-12-14 19:25:37.000000000 Z
+- name: Coveralls
+  description: Track your project's code coverage over time, changes to files, and
+    badge your GitHub repo
+  website_url: https://coveralls.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/repo-config/package.json
+  detection_source: repo-config/package.json
+  last_updated_by: Jarod Wong
+  last_updated_on: 2023-02-18 23:59:07.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/.eslintrc
+  detection_source: ".eslintrc"
+  last_updated_by: Ben Alpert
+  last_updated_on: 2015-01-30 01:10:49.000000000 Z
+- name: FindBugs
+  description: An open-source static code analyser
+  website_url: http://findbugs.sourceforge.net/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/2662/kWjFjx3K_400x400.jpg
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/ReactAndroid/build.gradle
+  detection_source: ReactAndroid/build.gradle
+  last_updated_by: James Ide
+  last_updated_on: 2019-10-14 06:24:59.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/PopBot/react-native-macos
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/.github/workflows/apply-version-label-issue.yml
+  detection_source: ".github/workflows/apply-version-label-issue.yml"
+  last_updated_by: Gabriel Donadel Dall'Agnol
+  last_updated_on: 2022-01-28 14:09:11.000000000 Z
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/ReactAndroid/build.gradle
+  detection_source: ReactAndroid/build.gradle
+  last_updated_by: Joshua Selbo
+  last_updated_on: 2020-05-19 21:15:19.000000000 Z
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 26.6.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/ReactCommon/hermes/inspector/tools/msggen/package.json
+  detection_source: ReactCommon/hermes/inspector/tools/msggen/package.json
+  last_updated_by: Tom Underhill
+  last_updated_on: 2020-04-28 18:49:15.000000000 Z
+- name: Mockito
+  description: Tasty mocking framework for unit tests in Java
+  website_url: https://site.mockito.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2021/4y634TJm_400x400.jpg
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/ReactAndroid/build.gradle
+  detection_source: ReactAndroid/build.gradle
+  last_updated_by: Joshua Selbo
+  last_updated_on: 2020-05-27 03:36:38.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/packages/react-native-macos-init/package.json
+  detection_source: packages/react-native-macos-init/package.json
+  last_updated_by: Tom Underhill
+  last_updated_on: 2020-04-02 00:22:01.000000000 Z
+- name: Octokit
+  description: GitHub API Client Library for .NET
+  website_url: https://github.com/octokit/octokit.net
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Tools for GitHub
+  image_url: https://img.stackshare.io/service/9827/octokit-dotnet_2.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/bots/package.json
+  detection_source: bots/package.json
+  last_updated_by: joshua
+  last_updated_on: 2022-01-26 18:29:30.000000000 Z
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 2.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/packages/eslint-config-react-native-community/package.json
+  detection_source: packages/eslint-config-react-native-community/package.json
+  last_updated_by: Adam Gleitman
+  last_updated_on: 2022-03-28 23:07:15.000000000 Z
+- name: Robolectric
+  description: An open-source testing framework for Android
+  website_url: http://robolectric.org/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2022/OavapKft_400x400.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/ReactAndroid/build.gradle
+  detection_source: ReactAndroid/build.gradle
+  last_updated_by: Dulmandakh
+  last_updated_on: 2019-02-09 18:14:55.000000000 Z
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/Gemfile
+  detection_source: Gemfile
+  last_updated_by: Gustavo Sverzut Barbieri
+  last_updated_on: 2021-10-02 04:21:03.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 5.73.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/ReactCommon/hermes/inspector/tools/msggen/package.json
+  detection_source: ReactCommon/hermes/inspector/tools/msggen/package.json
+  last_updated_by: Adam Gleitman
+  last_updated_on: 2022-07-18 21:48:56.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/bots/yarn.lock
+  detection_source: bots/yarn.lock
+  last_updated_by: Héctor Ramos
+  last_updated_on: 2019-02-08 11:33:33.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/template/package.json
+  detection_source: template/package.json
+  last_updated_by: Kacper Wiszczuk
+  last_updated_on: 2019-04-01 23:21:15.000000000 Z
+- name: Android OS
+  description: An open source mobile operating system by Google
+  website_url: https://www.android.com
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/template/android/app/build.gradle
+  detection_source: template/android/app/build.gradle
+  last_updated_by: Nicola Corti
+  last_updated_on: 2021-12-21 19:18:29.000000000 Z
+- name: CocoaPods
+  description: A dependency manager for Swift and Objective-C Cocoa projects
+  website_url: https://cocoapods.org/
+  version: 1.11.3
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Gustavo Sverzut Barbieri
+  last_updated_on: 2021-10-02 04:21:03.000000000 Z
+- name: PowerShell
+  description: A task automation and configuration management framework
+  website_url: https://docs.microsoft.com/en-us/powershell/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3681/powershell-logo.png
+  detection_source_url: https://github.com/PopBot/react-native-macos
+  detection_source: Repo Metadata
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/PopBot/react-native-macos
+  detection_source: Repo Metadata
+- name: chalk
+  description: terminal colors
+  website_url: https://github.com/chalk/chalk
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/packages/react-native-codegen/package.json
+  detection_source: packages/react-native-codegen/package.json
+  last_updated_by: Jarod Wong
+  last_updated_on: 2023-02-18 23:59:07.000000000 Z
+- name: danger
+  website_url: http://danger.systems
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/7944/no-img-open-source.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/bots/package.json
+  detection_source: bots/package.json
+  last_updated_by: Orta Therox
+  last_updated_on: 2022-02-02 16:22:05.000000000 Z
+- name: flow-bin
+  website_url: github.com/flowtype/flow-bin
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8085/15352388.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Jarod Wong
+  last_updated_on: 2023-02-18 23:59:07.000000000 Z
+- name: "@babel/cli"
+  description: Babel command line
+  package_url: https://www.npmjs.com/@babel/cli
+  version: 7.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15848/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/ReactCommon/hermes/inspector/tools/msggen/package.json
+  detection_source: ReactCommon/hermes/inspector/tools/msggen/package.json
+  last_updated_by: Eloy Durán
+  last_updated_on: 2020-09-30 16:38:06.000000000 Z
+- name: "@babel/core"
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/@babel/core
+  version: 7.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/ReactCommon/hermes/inspector/tools/msggen/package.json
+  detection_source: ReactCommon/hermes/inspector/tools/msggen/package.json
+  last_updated_by: Eloy Durán
+  last_updated_on: 2020-09-30 16:38:06.000000000 Z
+- name: "@babel/generator"
+  description: Turns an AST into code
+  package_url: https://www.npmjs.com/@babel/generator
+  version: 7.20.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17361/default_e9c4b89784d4fe5d59f93b4a54dd8910ea23e5de.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/repo-config/package.json
+  detection_source: repo-config/package.json
+  last_updated_by: Jarod Wong
+  last_updated_on: 2023-02-18 23:59:07.000000000 Z
+- name: "@babel/parser"
+  description: A JavaScript parser
+  package_url: https://www.npmjs.com/@babel/parser
+  version: 7.20.15
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16932/default_3823aba25646a3f105cc15ee9df24fdf78972314.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/packages/react-native-codegen/package.json
+  detection_source: packages/react-native-codegen/package.json
+  last_updated_by: Jarod Wong
+  last_updated_on: 2023-02-18 23:59:07.000000000 Z
+- name: "@babel/plugin-proposal-class-properties"
+  description: This plugin transforms static class properties as well as properties
+    declared with the property initializer syntax
+  package_url: https://www.npmjs.com/@babel/plugin-proposal-class-properties
+  version: 7.18.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15903/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/packages/react-native-codegen/package.json
+  detection_source: packages/react-native-codegen/package.json
+  last_updated_by: Jarod Wong
+  last_updated_on: 2023-02-18 23:59:07.000000000 Z
+- name: "@babel/plugin-proposal-nullish-coalescing-operator"
+  description: Remove nullish coalescing operator
+  package_url: https://www.npmjs.com/@babel/plugin-proposal-nullish-coalescing-operator
+  version: 7.18.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16503/default_55f3303d620c93eecbee69c43373d484f2be492f.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/packages/react-native-codegen/package.json
+  detection_source: packages/react-native-codegen/package.json
+  last_updated_by: Jarod Wong
+  last_updated_on: 2023-02-18 23:59:07.000000000 Z
+- name: "@babel/plugin-proposal-object-rest-spread"
+  description: Compile object rest and spread to ES5
+  package_url: https://www.npmjs.com/@babel/plugin-proposal-object-rest-spread
+  version: 7.20.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16001/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/packages/react-native-codegen/package.json
+  detection_source: packages/react-native-codegen/package.json
+  last_updated_by: Jarod Wong
+  last_updated_on: 2023-02-18 23:59:07.000000000 Z
+- name: "@babel/plugin-proposal-optional-chaining"
+  description: Transform optional chaining operators into a series of nil checks
+  package_url: https://www.npmjs.com/@babel/plugin-proposal-optional-chaining
+  version: 7.20.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16306/default_f130429ee56156823c8c6e94da6fb7aa07f07ba5.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/packages/react-native-codegen/package.json
+  detection_source: packages/react-native-codegen/package.json
+  last_updated_by: Jarod Wong
+  last_updated_on: 2023-02-18 23:59:07.000000000 Z
+- name: "@babel/plugin-syntax-dynamic-import"
+  description: Allow parsing of import
+  package_url: https://www.npmjs.com/@babel/plugin-syntax-dynamic-import
+  version: 7.8.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16080/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/packages/react-native-codegen/package.json
+  detection_source: packages/react-native-codegen/package.json
+  last_updated_by: Jarod Wong
+  last_updated_on: 2023-02-18 23:59:07.000000000 Z
+- name: "@babel/plugin-transform-async-to-generator"
+  description: Turn async functions into ES2015 generators
+  package_url: https://www.npmjs.com/@babel/plugin-transform-async-to-generator
+  version: 7.20.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16941/default_c17ccfb3dc0510bb2c684b87ee080a74a9728c34.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/packages/react-native-codegen/package.json
+  detection_source: packages/react-native-codegen/package.json
+  last_updated_by: Jarod Wong
+  last_updated_on: 2023-02-18 23:59:07.000000000 Z
+- name: "@babel/plugin-transform-destructuring"
+  description: Compile ES2015 destructuring to ES5
+  package_url: https://www.npmjs.com/@babel/plugin-transform-destructuring
+  version: 7.20.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17522/default_0b7f20f712cc7ba96f6445246813407719ce8f32.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/packages/react-native-codegen/package.json
+  detection_source: packages/react-native-codegen/package.json
+  last_updated_by: Jarod Wong
+  last_updated_on: 2023-02-18 23:59:07.000000000 Z
+- name: "@babel/plugin-transform-flow-strip-types"
+  description: Strip flow type annotations from your output code
+  package_url: https://www.npmjs.com/@babel/plugin-transform-flow-strip-types
+  version: 7.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16961/default_277303773c2bdb575ee8f4bfe869f0a33d6755b2.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/ReactCommon/hermes/inspector/tools/msggen/package.json
+  detection_source: ReactCommon/hermes/inspector/tools/msggen/package.json
+  last_updated_by: Eloy Durán
+  last_updated_on: 2020-09-30 16:38:06.000000000 Z
+- name: "@babel/preset-env"
+  description: A Babel preset for each environment
+  package_url: https://www.npmjs.com/@babel/preset-env
+  version: 7.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15819/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/ReactCommon/hermes/inspector/tools/msggen/package.json
+  detection_source: ReactCommon/hermes/inspector/tools/msggen/package.json
+  last_updated_by: Tim Yung
+  last_updated_on: 2021-09-16 01:08:59.000000000 Z
+- name: "@babel/preset-flow"
+  description: Babel preset for all Flow plugins
+  package_url: https://www.npmjs.com/@babel/preset-flow
+  version: 7.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16270/default_8b65a873fd3277d73483d6846fa38192391abf23.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/ReactCommon/hermes/inspector/tools/msggen/package.json
+  detection_source: ReactCommon/hermes/inspector/tools/msggen/package.json
+  last_updated_by: Tim Yung
+  last_updated_on: 2021-09-16 01:08:59.000000000 Z
+- name: "@babel/runtime"
+  description: Babel's modular runtime helpers
+  package_url: https://www.npmjs.com/@babel/runtime
+  version: 7.12.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15934/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/template/package.json
+  detection_source: template/package.json
+  last_updated_by: Moti Zilberman
+  last_updated_on: 2022-01-28 16:20:35.000000000 Z
+- name: "@octokit/rest"
+  description: GitHub REST API client for Node.js
+  package_url: https://www.npmjs.com/@octokit/rest
+  version: 18.12.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16999/default_43f23668e39c9b3381720c9c76540776b8a49167.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/bots/yarn.lock
+  detection_source: bots/package.json
+  last_updated_by: joshua
+  last_updated_on: 2022-01-26 18:29:30.000000000 Z
+- name: "@react-native-community/eslint-config"
+  description: ESLint config for React Native
+  package_url: https://www.npmjs.com/@react-native-community/eslint-config
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18225/default_88b0d2e50daafd07d82e1afc6ee8f1b97181a07d.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/template/package.json
+  detection_source: template/package.json
+  last_updated_by: Adam Gleitman
+  last_updated_on: 2022-03-28 23:07:15.000000000 Z
+- name: "@types/chalk"
+  description: Stub TypeScript definitions entry for chalk
+  package_url: https://www.npmjs.com/@types/chalk
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16547/default_2d1a470f86144a45b7e94185b9a5aecb5ebb69f4.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/packages/react-native-macos-init/package.json
+  detection_source: packages/react-native-macos-init/package.json
+  last_updated_by: Jarod Wong
+  last_updated_on: 2023-02-18 23:59:07.000000000 Z
+- name: "@types/semver"
+  description: TypeScript definitions for semver
+  package_url: https://www.npmjs.com/@types/semver
+  version: 7.3.13
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16694/default_4b738bf1758d38dddd276589bbea47fca5a990df.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/packages/react-native-macos-init/package.json
+  detection_source: packages/react-native-macos-init/package.json
+  last_updated_by: Jarod Wong
+  last_updated_on: 2023-02-18 23:59:07.000000000 Z
+- name: "@types/yargs"
+  description: TypeScript definitions for yargs
+  package_url: https://www.npmjs.com/@types/yargs
+  version: 17.0.22
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16404/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/packages/react-native-macos-init/package.json
+  detection_source: packages/react-native-macos-init/package.json
+  last_updated_by: Jarod Wong
+  last_updated_on: 2023-02-18 23:59:07.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 4.22.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/packages/eslint-config-react-native-community/package.json
+  detection_source: packages/eslint-config-react-native-community/package.json
+  last_updated_by: Adam Gleitman
+  last_updated_on: 2022-04-25 22:15:47.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 4.22.1
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/packages/eslint-config-react-native-community/package.json
+  detection_source: packages/eslint-config-react-native-community/package.json
+  last_updated_by: Adam Gleitman
+  last_updated_on: 2022-04-25 22:15:47.000000000 Z
+- name: async
+  description: Higher-order functions and common patterns for asynchronous code
+  package_url: https://www.npmjs.com/async
+  version: 3.2.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15851/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/repo-config/package.json
+  detection_source: repo-config/package.json
+  last_updated_by: Jarod Wong
+  last_updated_on: 2023-02-18 23:59:07.000000000 Z
+- name: babel-eslint
+  description: Custom parser for ESLint
+  package_url: https://www.npmjs.com/babel-eslint
+  version: 10.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15803/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/packages/eslint-config-react-native-community/package.json
+  detection_source: packages/eslint-config-react-native-community/package.json
+  last_updated_by: Adam Gleitman
+  last_updated_on: 2022-04-25 22:15:47.000000000 Z
+- name: babel-jest
+  description: Jest plugin to use babel for transformation
+  package_url: https://www.npmjs.com/babel-jest
+  version: 26.6.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15839/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/template/package.json
+  detection_source: template/package.json
+  last_updated_by: Moti Zilberman
+  last_updated_on: 2022-01-28 16:20:35.000000000 Z
+- name: base64-js
+  description: Base64 encoding/decoding in pure JS
+  package_url: https://www.npmjs.com/base64-js
+  version: 1.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17396/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Jarod Wong
+  last_updated_on: 2023-02-18 23:59:07.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 2.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/bots/yarn.lock
+  detection_source: packages/react-native-codegen/package.json
+  last_updated_by: Jarod Wong
+  last_updated_on: 2023-02-18 23:59:07.000000000 Z
+- name: clang-format
+  description: Node wrapper around clang-format
+  package_url: https://www.npmjs.com/clang-format
+  version: 1.8.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18178/default_d3a7b83d655e8a05ff3ca4b53648a053e1d909b2.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/repo-config/package.json
+  detection_source: repo-config/package.json
+  last_updated_by: Jarod Wong
+  last_updated_on: 2023-02-18 23:59:07.000000000 Z
+- name: connect
+  description: High performance middleware framework
+  package_url: https://www.npmjs.com/connect
+  version: 3.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16202/default_2c2f2c7b016f84c0fad2576cb986cb14a5dbbc2f.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/packages/rn-tester/package.json
+  detection_source: packages/rn-tester/package.json
+  last_updated_by: Jarod Wong
+  last_updated_on: 2023-02-18 23:59:07.000000000 Z
+- name: danger
+  description: Unit tests for Team Culture
+  package_url: https://www.npmjs.com/danger
+  version: 11.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18502/default_e81b0bd76811f164978fa6f4c4f71e0f1ccf1507.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/bots/yarn.lock
+  detection_source: bots/package.json
+  last_updated_by: Orta Therox
+  last_updated_on: 2022-02-02 16:22:05.000000000 Z
+- name: diff
+  description: A javascript text diff implementation
+  package_url: https://www.npmjs.com/diff
+  version: 3.5.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16509/default_0a704f5fac0bffcf529c9a61658d0b9ddbf7504e.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/ReactCommon/hermes/inspector/tools/msggen/package.json
+  detection_source: ReactCommon/hermes/inspector/tools/msggen/package.json
+  last_updated_by: Eloy Durán
+  last_updated_on: 2020-09-30 16:38:06.000000000 Z
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 8.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/packages/eslint-config-react-native-community/package.json
+  detection_source: packages/eslint-config-react-native-community/package.json
+  last_updated_by: Adam Gleitman
+  last_updated_on: 2022-04-25 22:15:47.000000000 Z
+- name: eslint-plugin-babel
+  description: An eslint rule plugin companion to babel-eslint
+  package_url: https://www.npmjs.com/eslint-plugin-babel
+  version: 5.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15988/default_cbd6c289400672b291755183817e9dd6abe1a612.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/repo-config/package.json
+  detection_source: repo-config/package.json
+  last_updated_by: Jarod Wong
+  last_updated_on: 2023-02-18 23:59:07.000000000 Z
+- name: eslint-plugin-eslint-comments
+  description: Additional ESLint rules for ESLint directive comments
+  package_url: https://www.npmjs.com/eslint-plugin-eslint-comments
+  version: 3.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17716/default_9693d58c90f5c726ee648423687212d2a94266da.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/packages/eslint-config-react-native-community/package.json
+  detection_source: packages/eslint-config-react-native-community/package.json
+  last_updated_by: Adam Gleitman
+  last_updated_on: 2022-04-25 22:15:47.000000000 Z
+- name: eslint-plugin-flowtype
+  description: Flowtype linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-flowtype
+  version: 7.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15940/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/packages/eslint-config-react-native-community/package.json
+  detection_source: packages/eslint-config-react-native-community/package.json
+  last_updated_by: Adam Gleitman
+  last_updated_on: 2022-04-25 22:15:47.000000000 Z
+- name: eslint-plugin-jest
+  description: Eslint rules for Jest
+  package_url: https://www.npmjs.com/eslint-plugin-jest
+  version: 25.2.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15996/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/packages/eslint-config-react-native-community/package.json
+  detection_source: packages/eslint-config-react-native-community/package.json
+  last_updated_by: Adam Gleitman
+  last_updated_on: 2022-04-25 22:15:47.000000000 Z
+- name: eslint-plugin-jsx-a11y
+  description: Static AST checker for accessibility rules on JSX elements
+  package_url: https://www.npmjs.com/eslint-plugin-jsx-a11y
+  version: 6.7.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15845/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/repo-config/package.json
+  detection_source: repo-config/package.json
+  last_updated_by: Jarod Wong
+  last_updated_on: 2023-02-18 23:59:07.000000000 Z
+- name: eslint-plugin-prettier
+  description: Runs prettier as an eslint rule
+  package_url: https://www.npmjs.com/eslint-plugin-prettier
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/packages/eslint-config-react-native-community/package.json
+  detection_source: packages/eslint-config-react-native-community/package.json
+  last_updated_by: Adam Gleitman
+  last_updated_on: 2022-04-25 22:15:47.000000000 Z
+- name: eslint-plugin-react
+  description: React specific linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-react
+  version: 7.26.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/packages/eslint-config-react-native-community/package.json
+  detection_source: packages/eslint-config-react-native-community/package.json
+  last_updated_by: Adam Gleitman
+  last_updated_on: 2022-04-25 22:15:47.000000000 Z
+- name: eslint-plugin-react-hooks
+  description: ESLint rules for React Hooks
+  package_url: https://www.npmjs.com/eslint-plugin-react-hooks
+  version: 4.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16149/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/packages/eslint-config-react-native-community/package.json
+  detection_source: packages/eslint-config-react-native-community/package.json
+  last_updated_by: Adam Gleitman
+  last_updated_on: 2022-04-25 22:15:47.000000000 Z
+- name: eslint-plugin-react-native
+  description: React Native specific linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-react-native
+  version: 3.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16852/default_627f05e6a07ce29fc9f119417270f38e8aa5c5e2.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/packages/eslint-config-react-native-community/package.json
+  detection_source: packages/eslint-config-react-native-community/package.json
+  last_updated_by: Adam Gleitman
+  last_updated_on: 2022-04-25 22:15:47.000000000 Z
+- name: extend
+  description: Port of jQuery.extend for node.js and the browser
+  package_url: https://www.npmjs.com/extend
+  version: 3.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16161/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/ReactCommon/hermes/inspector/tools/msggen/package.json
+  detection_source: ReactCommon/hermes/inspector/tools/msggen/package.json
+  last_updated_by: Eloy Durán
+  last_updated_on: 2020-09-30 16:38:06.000000000 Z
+- name: find-up
+  description: Find a file or directory by walking up parent directories
+  package_url: https://www.npmjs.com/find-up
+  version: 6.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17030/default_824835a71140f223a333a5e10225c10368f12857.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/packages/react-native-macos-init/package.json
+  detection_source: packages/react-native-macos-init/package.json
+  last_updated_by: Jarod Wong
+  last_updated_on: 2023-02-18 23:59:07.000000000 Z
+- name: flow-bin
+  description: Binary wrapper for Flow - A static type checker for JavaScript
+  package_url: https://www.npmjs.com/flow-bin
+  version: 0.200.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15957/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Jarod Wong
+  last_updated_on: 2023-02-18 23:59:07.000000000 Z
+- name: glob
+  description: A little globber
+  package_url: https://www.npmjs.com/glob
+  version: 7.2.3
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/bots/yarn.lock
+  detection_source: packages/react-native-codegen/package.json
+  last_updated_by: Jarod Wong
+  last_updated_on: 2023-02-18 23:59:07.000000000 Z
+- name: inquirer
+  description: A collection of common interactive command line user interfaces
+  package_url: https://www.npmjs.com/inquirer
+  version: 9.1.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15911/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/repo-config/package.json
+  detection_source: repo-config/package.json
+  last_updated_by: Jarod Wong
+  last_updated_on: 2023-02-18 23:59:07.000000000 Z
+- name: invariant
+  description: Invariant
+  package_url: https://www.npmjs.com/invariant
+  version: 2.2.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16272/default_5dfc1810d0882ab844578a326bb8bf19e45e7227.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Christoph Nakazawa
+  last_updated_on: 2018-12-03 07:49:12.000000000 Z
+- name: jest-junit
+  description: A jest reporter that generates junit xml files
+  package_url: https://www.npmjs.com/jest-junit
+  version: 15.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16536/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/repo-config/package.json
+  detection_source: repo-config/package.json
+  last_updated_by: Jarod Wong
+  last_updated_on: 2023-02-18 23:59:07.000000000 Z
+- name: jscodeshift
+  description: A toolkit for JavaScript codemods
+  package_url: https://www.npmjs.com/jscodeshift
+  version: 0.14.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17820/default_2a0f136cfb588dd9053268b73a18a953e8d65590.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/packages/react-native-codegen/package.json
+  detection_source: packages/react-native-codegen/package.json
+  last_updated_by: Jarod Wong
+  last_updated_on: 2023-02-18 23:59:07.000000000 Z
+- name: lodash.includes
+  description: The lodash method `_.includes` exported as a module
+  package_url: https://www.npmjs.com/lodash.includes
+  version: 4.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18358/default_2d54ed83bf3c0e61b6303a6cc77852a3fb1ae83a.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/bots/yarn.lock
+  detection_source: bots/package.json
+  last_updated_by: Hector Ramos
+  last_updated_on: 2017-07-25 19:14:41.000000000 Z
+- name: make-dir
+  description: Make a directory and its parents if needed - Think `mkdir -p`
+  package_url: https://www.npmjs.com/make-dir
+  version: 2.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17686/default_52c11a434d2ce37281914a7f804e07cf95ab96f7.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/packages/eslint-plugin-specs/package.json
+  detection_source: packages/eslint-plugin-specs/package.json
+  last_updated_by: Ramanpreet Nara
+  last_updated_on: 2020-10-27 07:38:54.000000000 Z
+- name: metro-react-native-babel-preset
+  description: Babel preset for React Native applications
+  package_url: https://www.npmjs.com/metro-react-native-babel-preset
+  version: 0.67.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16699/default_5ea3918e441555ef1fd413f4100fe15fe23b366f.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/template/package.json
+  detection_source: template/package.json
+  last_updated_by: Saad Najmi
+  last_updated_on: 2022-02-07 20:56:16.000000000 Z
+- name: micromatch
+  description: Glob matching for javascript/node.js
+  package_url: https://www.npmjs.com/micromatch
+  version: 4.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17143/default_0ffbf6d9ee2940fe94be8424fd9afff068fff458.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/bots/yarn.lock
+  detection_source: packages/react-native-codegen/package.json
+  last_updated_by: Jarod Wong
+  last_updated_on: 2023-02-18 23:59:07.000000000 Z
+- name: minimatch
+  description: A glob matcher in javascript
+  package_url: https://www.npmjs.com/minimatch
+  version: 3.0.5
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16195/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/bots/yarn.lock
+  detection_source: bots/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-01-14 07:27:06.000000000 Z
+- name: mkdirp
+  description: Recursively mkdir, like `mkdir -p`
+  package_url: https://www.npmjs.com/mkdirp
+  version: 2.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15881/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/packages/react-native-codegen/package.json
+  detection_source: packages/react-native-codegen/package.json
+  last_updated_by: Jarod Wong
+  last_updated_on: 2023-02-18 23:59:07.000000000 Z
+- name: pretty-format
+  description: Stringify any JavaScript value
+  package_url: https://www.npmjs.com/pretty-format
+  version: 29.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18252/default_d7af0607656aecc036ca87d563e99619deb7cf84.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Jarod Wong
+  last_updated_on: 2023-02-18 23:59:07.000000000 Z
+- name: promise
+  description: Bare bones Promises/A+ implementation
+  package_url: https://www.npmjs.com/promise
+  version: 8.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16093/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Jarod Wong
+  last_updated_on: 2023-02-18 23:59:07.000000000 Z
+- name: prompts
+  description: Lightweight, beautiful and user-friendly prompts
+  package_url: https://www.npmjs.com/prompts
+  version: 2.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17250/default_8da30b412bf0dbb63f862bee0dfab0a32df2fb69.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/packages/react-native-macos-init/package.json
+  detection_source: packages/react-native-macos-init/package.json
+  last_updated_by: Jarod Wong
+  last_updated_on: 2023-02-18 23:59:07.000000000 Z
+- name: react-test-renderer
+  description: React package for snapshot testing
+  package_url: https://www.npmjs.com/react-test-renderer
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15929/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/repo-config/package.json
+  detection_source: repo-config/package.json
+  last_updated_by: Jarod Wong
+  last_updated_on: 2023-02-18 23:59:07.000000000 Z
+- name: regenerator-runtime
+  description: Runtime for Regenerator-compiled generator and async functions
+  package_url: https://www.npmjs.com/regenerator-runtime
+  version: 0.13.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16148/default_9a7a7dcd69c12c746dc4000dc4d1b75758079c9f.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/bots/yarn.lock
+  detection_source: package.json
+  last_updated_by: Jarod Wong
+  last_updated_on: 2023-02-18 23:59:07.000000000 Z
+- name: semver
+  description: The semantic version parser used by npm
+  package_url: https://www.npmjs.com/semver
+  version: 5.7.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18809/default_dad3dc9dde4b82dc2a7bd32aa091165887abe57b.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/bots/yarn.lock
+  detection_source: packages/react-native-macos-init/package.json
+  last_updated_by: Jarod Wong
+  last_updated_on: 2023-02-18 23:59:07.000000000 Z
+  vulnerabilities:
+  - name: semver vulnerable to Regular Expression Denial of Service
+    cve_id: CVE-2022-25883
+    cve_url: https://github.com/advisories/GHSA-c2qf-rxjj-qqgw
+    detected_date: Jun 23
+    severity: moderate
+    first_patched: 5.7.2
+- name: shelljs
+  description: Portable Unix shell commands for Node.js
+  package_url: https://www.npmjs.com/shelljs
+  version: 0.8.5
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15897/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/repo-config/package.json
+  detection_source: repo-config/package.json
+  last_updated_by: Gabriel Donadel Dall'Agnol
+  last_updated_on: 2022-02-01 21:36:00.000000000 Z
+- name: source-map-support
+  description: Fixes stack traces for files with source maps
+  package_url: https://www.npmjs.com/source-map-support
+  version: 0.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16028/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/packages/eslint-plugin-specs/package.json
+  detection_source: packages/eslint-plugin-specs/package.json
+  last_updated_by: Ramanpreet Nara
+  last_updated_on: 2020-10-27 07:38:54.000000000 Z
+- name: valid-url
+  description: URI validation functions
+  package_url: https://www.npmjs.com/valid-url
+  version: 1.0.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17606/default_e98b11d23d67b728bd1f3e02eba62d97a55febbd.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/packages/react-native-macos-init/package.json
+  detection_source: packages/react-native-macos-init/package.json
+  last_updated_by: Jarod Wong
+  last_updated_on: 2023-02-18 23:59:07.000000000 Z
+- name: whatwg-fetch
+  description: A window.fetch polyfill
+  package_url: https://www.npmjs.com/whatwg-fetch
+  version: 2.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16094/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/bots/yarn.lock
+  detection_source: package.json
+  last_updated_by: Jarod Wong
+  last_updated_on: 2023-02-18 23:59:07.000000000 Z
+- name: yargs
+  description: Yargs the modern, pirate-themed, successor to optimist
+  package_url: https://www.npmjs.com/yargs
+  version: 16.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15887/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/bots/yarn.lock
+  detection_source: ReactCommon/hermes/inspector/tools/msggen/package.json
+  last_updated_by: Adam Gleitman
+  last_updated_on: 2022-04-29 01:05:21.000000000 Z
+- name: com.facebook.fresco:fresco
+  description: A system to load and display images and manage their memory on Android
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/ReactAndroid/build.gradle
+  detection_source: ReactAndroid/build.gradle
+  last_updated_by: Nicola Corti
+  last_updated_on: 2021-11-01 12:56:47.000000000 Z
+- name: com.facebook.soloader:soloader
+  description: Reliable native code loader for Android
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/ReactAndroid/build.gradle
+  detection_source: ReactAndroid/build.gradle
+  last_updated_by: Nicola Corti
+  last_updated_on: 2022-02-03 16:29:24.000000000 Z
+- name: com.google.code.findbugs:jsr305
+  description: JSR305 Annotations for Findbugs
+  version: 3.0.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/ReactAndroid/build.gradle
+  detection_source: ReactAndroid/build.gradle
+  last_updated_by: Nicola Corti
+  last_updated_on: 2021-11-01 12:56:47.000000000 Z
+- name: com.squareup.okhttp3:okhttp
+  description: 'Null'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/ReactAndroid/build.gradle
+  detection_source: ReactAndroid/build.gradle
+  last_updated_by: Nicola Corti
+  last_updated_on: 2021-10-18 11:32:45.000000000 Z
+- name: com.squareup.okhttp3:okhttp-urlconnection
+  description: 'Null'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/ReactAndroid/build.gradle
+  detection_source: ReactAndroid/build.gradle
+  last_updated_by: Nicola Corti
+  last_updated_on: 2022-02-03 16:29:24.000000000 Z
+- name: com.squareup.okio:okio
+  description: A modern I/O API for Java
+  version: 2.9.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/ReactAndroid/build.gradle
+  detection_source: ReactAndroid/build.gradle
+  last_updated_by: Nicola Corti
+  last_updated_on: 2021-10-18 11:32:45.000000000 Z
+  vulnerabilities:
+  - name: Okio Signed to Unsigned Conversion Error vulnerability
+    cve_id: CVE-2023-3635
+    cve_url: https://github.com/advisories/GHSA-w33c-445m-f8w7
+    detected_date: Jul 14
+    severity: moderate
+    first_patched: 3.4.0
+- name: javax.inject:javax.inject
+  description: The javax.inject API
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/ReactAndroid/build.gradle
+  detection_source: ReactAndroid/build.gradle
+  last_updated_by: Kudo Chien
+  last_updated_on: 2022-01-28 14:14:34.000000000 Z
+- name: org.assertj:assertj-core
+  description: Rich and fluent assertions for testing for Java
+  version: 3.21.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/ReactAndroid/build.gradle
+  detection_source: ReactAndroid/build.gradle
+  last_updated_by: Andrei Shikov
+  last_updated_on: 2021-12-16 18:39:20.000000000 Z
+- name: org.mockito:mockito-core
+  description: Mockito mock objects library core API and implementation
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/ReactAndroid/build.gradle
+  detection_source: ReactAndroid/build.gradle
+  last_updated_by: Andrei Shikov
+  last_updated_on: 2021-12-16 18:39:20.000000000 Z
+- name: org.powermock:powermock-api-mockito2
+  description: PowerMock API for Mockito 2.+.
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/ReactAndroid/build.gradle
+  detection_source: ReactAndroid/build.gradle
+  last_updated_by: Andrei Shikov
+  last_updated_on: 2021-12-16 18:39:20.000000000 Z
+- name: org.powermock:powermock-classloading-xstream
+  description: Performs classloader deep-cloning using X-Stream
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/ReactAndroid/build.gradle
+  detection_source: ReactAndroid/build.gradle
+  last_updated_by: Nicola Corti
+  last_updated_on: 2022-02-03 16:29:24.000000000 Z
+- name: org.powermock:powermock-module-junit4-rule
+  description: PowerMock support module for JUnit 4.x rules
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/ReactAndroid/build.gradle
+  detection_source: ReactAndroid/build.gradle
+  last_updated_by: Andrei Shikov
+  last_updated_on: 2021-12-16 18:39:20.000000000 Z
+- name: org.robolectric:robolectric
+  description: An alternative Android testing framework
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/ReactAndroid/build.gradle
+  detection_source: ReactAndroid/build.gradle
+  last_updated_by: Andrei Shikov
+  last_updated_on: 2021-12-16 18:39:20.000000000 Z
+- name: DoubleConversion
+  description: Efficient binary-decimal and decimal-binary conversion routines for
+    IEEE doubles
+  package_url: https://cocoapods.org/pods/DoubleConversion
+  version: 1.1.6
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/package/cocoapods/image.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/packages/rn-tester/Podfile.lock
+  detection_source: ReactCommon/ReactCommon.podspec
+  last_updated_by: HeyImChris
+  last_updated_on: 2022-01-14 21:11:09.000000000 Z
+- name: OCMock
+  description: Mock objects for Objective-C
+  package_url: https://cocoapods.org/pods/OCMock
+  version: 3.9.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/package/cocoapods/image.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/packages/rn-tester/Podfile.lock
+  detection_source: packages/rn-tester/Podfile
+  last_updated_by: Adam Gleitman
+  last_updated_on: 2022-07-14 21:51:41.000000000 Z
+- name: glog
+  description: Google logging module
+  package_url: https://cocoapods.org/pods/glog
+  version: 0.3.5
+  license: ''
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/package/cocoapods/image.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/packages/rn-tester/Podfile.lock
+  detection_source: React-Core.podspec
+  last_updated_by: Tom Underhill
+  last_updated_on: 2020-04-28 18:49:15.000000000 Z
+- name: cocoapods
+  description: CocoaPods manages library dependencies for your Xcode project
+  package_url: https://rubygems.org/cocoapods
+  version: 1.11.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19189/default_2266a6c0e2693d55b1999a7c5db4be13e5720232.png
+  detection_source_url: https://github.com/PopBot/react-native-macos/blob/main/Gemfile.lock
+  detection_source: Gemfile
+  last_updated_by: Gustavo Sverzut Barbieri
+  last_updated_on: 2021-10-02 04:21:03.000000000 Z
