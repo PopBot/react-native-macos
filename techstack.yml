@@ -2,7 +2,7 @@ repo_name: PopBot/react-native-macos
 report_id: 50bcbde4fdf9a109be65319bf4a63ab8
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-31T18:58:06+00:00'
+timestamp: '2024-02-29T19:49:05+00:00'
 requested_by: PopBot
 provider: github
 branch: main
@@ -121,7 +121,7 @@ tools:
   last_updated_by: Gustavo Sverzut Barbieri
   last_updated_on: 2021-10-02 04:21:03.000000000 Z
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
@@ -239,7 +239,7 @@ tools:
   last_updated_by: Eloy Durán
   last_updated_on: 2020-09-30 16:38:06.000000000 Z
 - name: CMake
-  description: 'An open-source system that manages the build process '
+  description: An open-source system that manages the build process
   website_url: http://www.cmake.org/
   open_source: false
   hosted_saas: false
@@ -385,7 +385,7 @@ tools:
   last_updated_by: joshua
   last_updated_on: 2022-01-26 18:29:30.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.4.1
   license: MIT
